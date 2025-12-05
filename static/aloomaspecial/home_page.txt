@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. How much does a standard porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Average portable toilet rental prices range from $85–$130/week. Final cost depends on location, duration, and service frequency—especially in high-demand states like Texas or Florida.</p>
+                <h4 class="template4 palooma">2. Do you offer same-day delivery for emergencies?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Emergency porta potty rental near me is available with 4–8 hour response in most metro areas in USA</p>
+                <h4 class="template4 palooma">3. Are ADA units available for home events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. ADA compliant porta potty is available for private gatherings, medical needs, or accessibility requirements nationwide.</p>
+                <h4 class="template4 palooma">4. How many units do I need for a 200-person event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">General rule: 1 unit per 50 guests for a 4–6 hour event. For 200 people, 4–5 standard units or 1–2 deluxe trailers is ideal nationwide.</p>
+                <h4 class="template4 palooma">5. Do you offer discounts for routine maintenance services?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. All luxury portable restrooms for rent are self-contained with onboard tanks—no external plumbing needed.</p>
+                <h4 class="template4 palooma">6. What’s the minimum rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">One day for standard and family-friendly units. Trailers typically require a 2-day minimum.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
